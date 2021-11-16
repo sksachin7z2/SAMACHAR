@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Mike Florio",
+            "title": "Will the Seahawks constantly blitz Aaron Rodgers today? - NBC Sports",
+            "description": "After 10 days of being away from football (but still somehow showing up with a toe injury), Packers quarterback Aaron Rodgers will be back on the field today, one day after making his return. The Seahawks, who haven’t won at Lambeau Field since 1999, should g…",
+            "url": "https://profootballtalk.nbcsports.com/2021/11/14/will-the-seahawks-constantly-blitz-aaron-rodgers-today/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2021/11/GettyImages-1348636351-e1636898562695.jpg",
+            "publishedAt": "2021-11-14T14:06:00Z",
+            "content": "After 10 days of being away from football (but still somehow showing up with a toe injury), Packers quarterback Aaron Rodgers will be back on the field today, one day after making his return.\r\nThe Se… [+1514 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Gonzaga's Drew Timme, the top player in the nation, had his best game to lead the No. 1 Zags over No. 5 Texas - CBS Sports",
+            "description": "Timme was vintage yet improved, and helped set the table for what could be another special season in Spokane",
+            "url": "https://www.cbssports.com/college-basketball/news/gonzagas-drew-timme-the-top-player-in-the-nation-had-his-best-game-to-lead-the-no-1-zags-over-no-5-texas/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/11/14/d98b7968-a9a5-451f-b567-277fde231b72/thumbnail/1200x675/a2867386413e9f97d617699590d3ee9e/gonzaga-drew-timme.jpg",
+            "publishedAt": "2021-11-14T08:04:00Z",
+            "content": "SPOKANE, Wash. -- Nearly seven hours before No. 1 Gonzaga handed a no-doubt-about-it 86-74 defeat to No. 5 Texas, the best player in college basketball sauntered into a dead-quiet McCarthey Athletic … [+6785 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Pete Thamel",
+            "title": "College football takeaways: Florida's shaky win over Samford all but buries Dan Mullen - Yahoo Sports",
+            "description": "It wasn't even a loss, but Florida's effort against Samford on Saturday may have been a death knell for Dan Mullen.",
+            "url": "https://sports.yahoo.com/college-football-takeaways-shaky-win-against-samford-all-but-buries-dan-mullen-034516373.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3DYtfpyMYOF21gz18nl7dg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-11/618b9df0-44fc-11ec-a276-25eaa7fabcc3",
+            "publishedAt": "2021-11-14T03:45:00Z",
+            "content": "One week after suffering the worst loss of his 13-year head coaching career, Floridas Dan Mullen suffered his worst win. The collective toll of the accumulated embarrassments for Florida football has… [+12781 chars]"
+        }
+    ]
+}
