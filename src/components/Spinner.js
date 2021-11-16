@@ -3,8 +3,8 @@ import loading from './loading.gif'
 export class spinner extends Component {
     render() {
         return (
-           <div style={{height:"70vh"}} className="d-flex align-items-center justify-content-center ">
-                <img src={loading} alt="loading..." />
+           <div style={{height:"100vh",backgroundColor:"transparent" ,textAlign:'center',paddingTop:"20vh"}} >
+                <img src={loading} alt="loading..." width="10%" />
             </div>
         )
     }
