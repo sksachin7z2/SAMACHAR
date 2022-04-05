@@ -34,7 +34,7 @@ const [totalResults, setTotalResults] = useState(0);
     props.setProgress(100);
   }
   useEffect(() => {
-    document.title=`NewsMonkey | ${capitalize(props.category)}`;
+    document.title=`SAMACHAR | ${capitalize(props.category)}`;
     Update();
    // eslint-disable-next-line
   }, [])
@@ -55,9 +55,10 @@ const [totalResults, setTotalResults] = useState(0);
   
     return (
       <div className="container my-3">
-        <h1 className="text-center " style={{ color: "white",marginTop:"2em" }}>
-          NewsMonkey - Top Headlines on {capitalize(props.category)}
+        <h1 className="text-center textgrad" style={{ marginTop:"2em" }}>
+         Latest NEWS - {capitalize(props.category)}
         </h1>
+        <hr className="hr"/>
         {loading && <Spinner/>}
         <InfiniteScroll
           dataLength={articles.length}

@@ -15,7 +15,16 @@ code {
 ::-webkit-scrollbar {
   width: 5px;
 }
-
+.textgrad{
+  
+  /* font-size: 72px; */
+  background: -webkit-linear-gradient(#37b9a3, #eba4a4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+body{
+  background: linear-gradient(213deg, #1e3d7a, #00daff);
+}
 /* Track */
 ::-webkit-scrollbar-track {
   background: white; 
